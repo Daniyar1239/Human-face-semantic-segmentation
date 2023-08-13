@@ -3,7 +3,7 @@
 
 This is the fourth-year project in the Electrical and Computer Engineering Department at Nazarbayev University. 
 
-This project uses the small portion of 4000 images from the Celeba dataset, which contains the faces of different celebrities. 
+This project uses the small portion of 4000 images from the Celeba dataset, which contains the faces of different celebrities. Source of the data: https://drive.google.com/drive/folders/1XvsWDwjvgg1No2zfzlTLMhL2JBi2qJSx?usp=sharing. 
 
 The DeepLabV3+ model was trained to classify the human face segmentation masks. You can read the report to better understand the problem and the results we've got. 
 
